@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/ajewe/garden-scraper#readme",
   "dependencies": {
+    "@fast-csv/format": "^4.3.1",
+    "@fast-csv/parse": "^4.3.1",
+    "fast-csv": "^4.3.1",
     "puppeteer": "^5.2.1"
   }
 }
